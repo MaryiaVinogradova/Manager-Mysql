@@ -10,7 +10,7 @@
   - [Questions] 
 
 ## Description
-  As a manager I want to see all my departments, employees, roles and salaries. I want to manege all of this and simly modifi as neede. 
+  As a manager I want to see all my departments, employees, roles and salaries. I want to manege all of this and simly modify as needed. 
 
 ## Installation & Usage
   For installation and usagemake sure that your database is selected - to interract with it. For this you should open integrated terminal and type:
